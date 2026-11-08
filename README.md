@@ -1,2 +1,2 @@
-# ult-mate-manager
+# ultimate-manager
 Ultímate mánager - juego de gestión de futbol
